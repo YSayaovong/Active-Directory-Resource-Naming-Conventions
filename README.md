@@ -1,0 +1,1 @@
+# Active-Directory-Resource-Naming-Conventions
